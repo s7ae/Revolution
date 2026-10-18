@@ -1,0 +1,19 @@
+{
+    "schema":  1,
+    "vscode":  {
+                   "file":  "Vira-Theme-s7ae-Edition-2026.9.7.vsix",
+                   "size":  5683713,
+                   "sha256":  "8EC79C26EACFEDED28C8D1F3F780FB18B26EA0D49354EDD2F967C60B2EEED102",
+                   "publisher":  "local-recovery",
+                   "name":  "vsc-vira-theme-offline",
+                   "version":  "2026.9.8"
+               },
+    "jetbrains":  {
+                      "file":  "Vira-Theme-JetBrains-s7ae-Edition-2026.7.1.3.zip",
+                      "size":  5544137,
+                      "sha256":  "A5EBA5D2246BB9044D7A2EDC87DB04DC004E91BB27D6FC80F9785E78A6BF456C",
+                      "id":  "build.vira.vira-theme",
+                      "version":  "2026.7.1.3",
+                      "sinceBuild":  "252"
+                  }
+}
